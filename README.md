@@ -84,4 +84,5 @@ Projet réalisé en équipe :
 
 ## Documentation Complémentaire
 - [Rapport résumé (PDF)](https://drive.google.com/file/d/1eKjhF_8CY1nqPwWmO94Mv_t4nJAxSQQN/view?usp=drive_link)
-- Présentation PowerPoint
+- Présentation (https://www.canva.com/design/DAG8hv6qNk0/KVyCDl1vrZD_Gn5Hh9G2OA/edit?utm_content=DAG8hv6qNk0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
