@@ -33,7 +33,8 @@ Le MAS repose sur 4 sous-scores complémentaires :
 │   ├── MAS_Classement_Final_2025.xlsx
 │   ├── MAS_Classement_Final_2025.csv
 ├── docs/                               # Documentation
-│  └── RAPPORT RESUME DU PROJET.Pdf
+│   ├──   RAPPORT RESUME DU PROJET.Pdf
+└── Présentation PowerPoint
 ├── requirements.txt                    # Dépendances Python
 └── README.md                           # Ce fichier
 ```
@@ -83,8 +84,10 @@ Projet réalisé en équipe :
 
 ## Documentation Complémentaire
 - [Rapport résumé (PDF)](https://drive.google.com/file/d/1eKjhF_8CY1nqPwWmO94Mv_t4nJAxSQQN/view?usp=drive_link)
+- Présentation PowerPoint
 
  
  tement en valeur le travail d’équipe et le résultat final. Ton repo GitHub va faire pro ! 🚀
 
 Si tu veux une version plus courte ou avec badge GitHub Actions, dis-moi.
+
